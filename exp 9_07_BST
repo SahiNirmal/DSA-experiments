@@ -167,3 +167,37 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT:-
+--- Binary Search Tree Menu ---
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Exit
+Enter choice: 1
+Enter value to insert: 7
+
+--- Binary Search Tree Menu ---
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Exit
+Enter choice: 1
+Enter value to insert: 14
+
+--- Binary Search Tree Menu ---
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Exit
+Enter choice: 4
+Inorder: 7 14 
