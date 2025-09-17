@@ -1,3 +1,8 @@
+Rishi Dembla
+D10C 07
+Experiment 13 
+Aim:-Implementation of Menu driven Selection sort, Bubble sort, Insertion sort
+
 #include <stdio.h>
 
 // Function to display array
