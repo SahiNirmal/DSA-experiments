@@ -169,3 +169,34 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT:-
+--- Circular Doubly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at End
+3. Delete a Node
+4. Display Forward
+5. Display Backward
+6. Exit
+Enter choice: 1
+Enter value: 7
+
+--- Circular Doubly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at End
+3. Delete a Node
+4. Display Forward
+5. Display Backward
+6. Exit
+Enter choice: 1
+Enter value: 14
+
+--- Circular Doubly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at End
+3. Delete a Node
+4. Display Forward
+5. Display Backward
+6. Exit
+Enter choice: 4
+Forward: 14 <-> 7 <-> (back to head)
