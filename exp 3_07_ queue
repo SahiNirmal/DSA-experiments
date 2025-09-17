@@ -1,3 +1,8 @@
+Rishi Dembla
+D10C 07
+Experiment 3
+Aim:-mplementation of Linear Queue Data Structure using array.
+
 #include <stdio.h>
 #define SIZE 5   // maximum size of queue
 
