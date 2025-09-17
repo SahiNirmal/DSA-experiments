@@ -1,6 +1,6 @@
 Rishi Dembla
 D10C 07
-Experiment 1 
+Experiment 2
 Aim:-Conversion of Infix Expression to Postfix Expression Using Stack.
 
 #include <stdio.h>
