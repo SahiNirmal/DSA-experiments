@@ -101,3 +101,33 @@ int main() {
     }
     return 0;
 }
+OUTPUT:-
+--- Music Player Menu ---
+1. Play New Song (Push)
+2. Go Back to Previous Song (Pop)
+3. Show Current Song (Peek)
+4. Show Playlist History (Display)
+5. Exit
+Enter choice: 1
+Enter song name: alan walker
+Now playing: alan walker
+
+--- Music Player Menu ---
+1. Play New Song (Push)
+2. Go Back to Previous Song (Pop)
+3. Show Current Song (Peek)
+4. Show Playlist History (Display)
+5. Exit
+Enter choice: 1
+Enter song name: neffex
+Now playing: neffex
+
+--- Music Player Menu ---
+1. Play New Song (Push)
+2. Go Back to Previous Song (Pop)
+3. Show Current Song (Peek)
+4. Show Playlist History (Display)
+5. Exit
+Enter choice: 2
+Stopping: neffex
+Now playing: alan walker
