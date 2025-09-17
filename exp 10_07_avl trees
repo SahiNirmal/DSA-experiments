@@ -145,3 +145,32 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT:-
+--- AVL Tree Menu ---
+1. Insert
+2. Inorder Traversal
+3. Exit
+Enter choice: 1
+Enter value to insert: 7
+
+--- AVL Tree Menu ---
+1. Insert
+2. Inorder Traversal
+3. Exit
+Enter choice: 1
+Enter value to insert: 14
+
+--- AVL Tree Menu ---
+1. Insert
+2. Inorder Traversal
+3. Exit
+Enter choice: 1
+Enter value to insert: 21
+
+--- AVL Tree Menu ---
+1. Insert
+2. Inorder Traversal
+3. Exit
+Enter choice: 2
+Inorder Traversal: 7 14 21 
