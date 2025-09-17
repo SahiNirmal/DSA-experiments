@@ -50,3 +50,14 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:-
+Enter number of songs: 5
+Enter songs in alphabetical order:
+Believer
+Closer
+Despacito
+Perfect
+Senorita
+Enter song to search: ShapeOfYou
+Song 'ShapeOfYou' not found in playlist.
