@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Sahil Nirmal
+D10C 38
 Experiment 3
 Aim:-mplementation of Linear Queue Data Structure using array.
 
@@ -88,7 +88,7 @@ OUTPUT:-
 3. Display Queue
 4. Exit
 Enter your choice: 1
-Enter value to insert: 7
+Enter value to insert: 38
 7 inserted into the queue.
 
 --- Queue Menu ---
@@ -97,7 +97,7 @@ Enter value to insert: 7
 3. Display Queue
 4. Exit
 Enter your choice: 1
-Enter value to insert: 14
+Enter value to insert: 76
 14 inserted into the queue.
 
 --- Queue Menu ---
@@ -106,4 +106,4 @@ Enter value to insert: 14
 3. Display Queue
 4. Exit
 Enter your choice: 3
-Queue elements: 7 14
+Queue elements: 38 76
