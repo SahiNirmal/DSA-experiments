@@ -1,5 +1,5 @@
-        Rishi Dembla
-        D10C 07
+        Sahil Nirmal
+        D10C 38
         Experiment 4
         Aim:-Implementation of Circular Queue Data Structure using array.
     
@@ -101,8 +101,8 @@
         3. Display
         4. Exit
         Enter your choice: 1
-        Enter value to enqueue: 7
-        7 inserted into the queue.
+        Enter value to enqueue: 38
+        38 inserted into the queue.
         
         --- Circular Queue Menu ---
         1. Enqueue
@@ -110,8 +110,8 @@
         3. Display
         4. Exit
         Enter your choice: 1
-        Enter value to enqueue: 14
-        14 inserted into the queue.
+        Enter value to enqueue: 76
+        76 inserted into the queue.
         
         --- Circular Queue Menu ---
         1. Enqueue
@@ -119,7 +119,7 @@
         3. Display
         4. Exit
         Enter your choice: 2
-        7 removed from the queue.
+        38 removed from the queue.
         
         --- Circular Queue Menu ---
         1. Enqueue
@@ -127,4 +127,4 @@
         3. Display
         4. Exit
         Enter your choice: 3
-        Queue elements: 14 
+        Queue elements: 76
